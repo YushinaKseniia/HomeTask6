@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Snake1\Snake1\bin\Debug\Snake1.exe.config
+C:\Users\User\source\repos\Snake1\Snake1\bin\Debug\Snake1.exe
+C:\Users\User\source\repos\Snake1\Snake1\bin\Debug\Snake1.pdb
+C:\Users\User\source\repos\Snake1\Snake1\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\Snake1\Snake1\obj\Debug\Snake1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Snake1\Snake1\obj\Debug\Snake1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Snake1\Snake1\obj\Debug\Snake1.csproj.CopyComplete
+C:\Users\User\source\repos\Snake1\Snake1\obj\Debug\Snake1.exe
+C:\Users\User\source\repos\Snake1\Snake1\obj\Debug\Snake1.pdb
