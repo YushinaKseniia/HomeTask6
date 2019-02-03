@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Pifagor\Pifagor\bin\Debug\Pifagor.exe.config
+C:\Users\User\source\repos\Pifagor\Pifagor\bin\Debug\Pifagor.exe
+C:\Users\User\source\repos\Pifagor\Pifagor\bin\Debug\Pifagor.pdb
+C:\Users\User\source\repos\Pifagor\Pifagor\obj\Debug\Pifagor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pifagor\Pifagor\obj\Debug\Pifagor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pifagor\Pifagor\obj\Debug\Pifagor.exe
+C:\Users\User\source\repos\Pifagor\Pifagor\obj\Debug\Pifagor.pdb
