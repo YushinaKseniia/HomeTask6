@@ -4,18 +4,41 @@
 
                                              
 }
+.menu a {
+    text-decoration: none;
+    /*font-family: sans-serif;*/
+    margin-right: -5px;
+    color: #5757a0;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: lavender;
+    border-bottom: 5px solid #5757a0;
+}
 a.slink {
+    background-position: center right;
     text-decoration: none;
     padding: 15px 20px;
     display: inline-block;
     opacity: 1;
-    background: #D8D8D8;
+    background: #E6E6E6;
     border: 1px solid white;
     position: relative;
     border-radius: 30px 10px;
-    color:black;
+    color: #585858;
+    border-bottom: 5px solid #585858;
+    /* margin-left: auto;
+    margin-right: auto;*/
+    position: relative;
+    left: 15%;
     
 }
+    a.slink:hover {
+        background: #585858;
+        color: #E6E6E6;
+        
+        /* Цвет ссылки при наведении на нее курсора мыши */
+        /* Добавляем подчеркивание */
+    }
 a.link {
    
     background-position: center right;
@@ -24,12 +47,12 @@ a.link {
 }
 
 
-    body.gradient {
-        background: #fefcea; /* Для старых браузров */
-        background: linear-gradient(to top, #A9A9A9,#fefcea);
-        padding: 10px;
-        border: 1px solid #3333; 
-    }
+body.gradient {
+    background: #fefcea; /* Для старых браузров */
+    background: linear-gradient(to top, #A9A9A9,#F2F2F2);
+    padding: 10px;
+    border: 1px solid #3333;
+}
 
 IMG.displayed {
     display: block;
