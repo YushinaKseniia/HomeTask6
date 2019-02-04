@@ -1,0 +1,42 @@
+﻿body 
+
+    {font-family:/* Ubuntu ,*/Arsenal, Arial, Helvetica, sans-serif
+
+                                             
+}
+a.slink {
+    text-decoration: none;
+    padding: 15px 20px;
+    display: inline-block;
+    opacity: 1;
+    background: #D8D8D8;
+    border: 1px solid white;
+    position: relative;
+    border-radius: 30px 10px;
+    color:black;
+    
+}
+a.link {
+   
+    background-position: center right;
+    background-repeat: no-repeat;
+    padding-right: 13px;
+}
+
+
+    body.gradient {
+        background: #fefcea; /* Для старых браузров */
+        background: linear-gradient(to top, #A9A9A9,#fefcea);
+        padding: 10px;
+        border: 1px solid #3333; 
+    }
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fefcea; /* Для старых браузров */
+    background: linear-gradient(to top, #A9A9A9,#fefcea);
+    padding: 10px;
+    border: 1px solid #3333;
+}
